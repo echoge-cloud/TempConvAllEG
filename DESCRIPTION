@@ -1,0 +1,12 @@
+Package: TempConvAllEG
+Title: Convert Temperatures Between Fahrenheit, Celsius, and Kelvin
+Version: 0.0.0.9000
+Authors@R: 
+    person("Echo", "Ge", , "gee@vcu.edu", role = c("aut", "cre"))
+Description: Provides six functions to convert temperatures among
+    Fahrenheit, Celsius, and Kelvin. Kelvin conversions use
+    the formula K = C + 273.
+License: GPL-3
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
